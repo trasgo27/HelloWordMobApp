@@ -1,0 +1,10 @@
+build/
+.gradle/
+.idea/workspace.xml
+.idea/shelf/
+.idea/dictionaries/
+.idea/libraries/
+local.properties
+captures/
+Thumbs.db
+.DS_Store
